@@ -14,7 +14,7 @@ Ce projet m'a permis d'appronfondir mes connaissances en JavaScript. Utilisation
 
 * **ScrollMagic**
 * **Gsap**
-* **Barba**
+* **Barba** 
 
 Je compte refaire le template en **Mobile First** car je ne suis pas satisfait de la vue mobile actuellement. 
 
