@@ -20,10 +20,3 @@ Je compte refaire le template en **Mobile First** car je ne suis pas satisfait d
 
 [thumbnail]: ./img/thumbnail-template-website.png "Miniature de l'application"
 
-
-<style type='text/css'>
-  @keyframes shine {
-    from { opacity: 1; }
-    to { opacity: 0.5; }
-  }
-</style>
